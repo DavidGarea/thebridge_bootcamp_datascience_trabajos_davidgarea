@@ -1,3 +1,0 @@
-
-def hola():
-    return "hola"
